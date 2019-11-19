@@ -1,0 +1,39 @@
+.DeleteButton {
+  background-color: rgb(194, 89, 98);
+  text-align: center;
+  border: none;
+  color: black;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+  margin: 0px 20px 0px 20px;
+}
+
+.addNewTrans {
+  color: black;
+  background-color: Thistle;
+  padding: 0px 16px 0px 10px;
+  margin: 7px 16px 7px 10px;
+  font-size: 1rem;
+}
+
+.ButtonGroupStyle {
+  color: black;
+  background-color: Thistle;
+  padding: 0px 16px 0px 10px;
+  font-size: 1rem;
+}
+
+.GraphButton {
+  color: black;
+  background-color: Thistle;
+  margin: 0px 16px 0px 75px;
+  font-size: 1rem;
+  padding: 0px 15px 0 px 15px;
+  width: 125px;
+}
+
+.pagebut {
+  color: black;
+  background-color: Thistle;
+}
